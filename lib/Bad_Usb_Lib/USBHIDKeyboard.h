@@ -104,7 +104,7 @@ typedef union {
 #define LED_SCROLLLOCK  0x04
 #define LED_COMPOSE     0x08
 #define LED_KANA        0x10
-#define KEY_SPACE       0x2c
+#define KEY_SPACE       0x20 //0x2c = ,
 
 
 
